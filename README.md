@@ -74,14 +74,3 @@ git clone https://github.com/zxysilent/blog.git
 ![image](./data/imgs/backend-2.png)
 ![image](./data/imgs/backend-3.png)
 ![image](./data/imgs/backend-4.png)
-
-## Donation
-If this project help you a lot, you can support us by:
-
-AliPay
-
-![image](./data/imgs/alipay.png)
-
-Wechat Pay
-
-![image](./data/imgs/wechatpay.png)
