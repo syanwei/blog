@@ -17,7 +17,7 @@ import (
 // @Description 数据传递方式包括 json、formData 推荐使用 json
 // @Description /api/* 公共访问
 // @Description /adm/* 必须传入 token
-// @Host 127.0.0.1:88
+// @Host 127.0.0.1:8888
 // @BasePath /
 func main() {
 	logs.Info("app initializing")
